@@ -1,0 +1,39 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* begin writing your CSS below this line */
+#css-zen-garden { 
+background-color: salmon;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Architects Daughter";
+}
+h2 {
+    text-align: left;
+    margin-left: 100px;
+}
+#zen-summary {
+    width: 500px;
+    height: 100px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+#zen-preamble {
+    width: 1000px;
+    height: 200px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+#zen-supporting {
+    border: 3px solid black;
+    margin-left: 100px;
+    
+}
+body {
+    background-image: url("http://i.imgur.com/Xu3y2IV.png");
+}
+
